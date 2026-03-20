@@ -1,2 +1,3 @@
-# flex-social-platform-sohv
-Automated issue comment bot repository
+# Flex Social Platform Sohv
+
+Automated issue comment bot repository.
